@@ -1,7 +1,7 @@
 # Use python 3.9.4 container image
 FROM python:3.9.4
 
-#Se the working directory to /app
+#Set the working directory to /app
 WORKDIR /app
 
 # Copy the current directory contents into the container at /app
